@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's Up?</h1>
 
 ![kypau](img/github-banner.png)
 - 🔭 I’m currently a student at [**Polytechnic IDN**](https://idn.ac.id/)
