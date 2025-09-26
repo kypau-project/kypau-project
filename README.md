@@ -18,7 +18,7 @@
 
 #### Connect With Me
 
-![https://github.com/kypau-project](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/kyypau](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyypau) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kypau-project)
 
 #### Github Stats
 ###
@@ -26,7 +26,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kypau-project&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kypau-project&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=kypau-project&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=kypau-project&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
